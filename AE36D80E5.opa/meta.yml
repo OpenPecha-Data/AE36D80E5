@@ -1,0 +1,20 @@
+id: AE36D80E5
+title: Toh_731-Tara_Who_Protects_from_Eight_Dangers-v2
+type: translation
+pechas:
+- ID6EF44D1
+- I1A04D4E8
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-094-008
+  eft-text-version: 1.1.3 2020
+  title: Toh_731-Tara_Who_Protects_from_Eight_Dangers-v2
+alignment_to_base:
+  ID6EF44D1/5293: 6D0A
+  I1A04D4E8/9104: 6D0A
